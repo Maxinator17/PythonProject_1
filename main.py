@@ -1,3 +1,4 @@
+import numpy as np
 # This is a sample Python script.
 
 # Press Umschalt+F10 to execute it or replace it with your code.
@@ -15,3 +16,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+con1=np.pi*np.e;
+print (np.pi,np.e, np.euler_gamma, con1)
+print('GitHub connected')
